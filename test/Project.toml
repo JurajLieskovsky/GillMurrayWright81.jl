@@ -1,6 +1,6 @@
 [deps]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
-GillMurrayWrightFactorization = "1819ed89-a2b3-41ea-8dbb-b3a776e027cf"
+GMW81 = "1819ed89-a2b3-41ea-8dbb-b3a776e027cf"
 
 [sources]
-GillMurrayWrightFactorization = {path = ".."}
+GMW81 = {path = ".."}
