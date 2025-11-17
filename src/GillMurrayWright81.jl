@@ -1,4 +1,4 @@
-module GMW81
+module GillMurrayWright81
 
 using LinearAlgebra
 
@@ -87,5 +87,5 @@ function reconstruct(p::Vector{Int}, L::Matrix{T}) where {T<:AbstractFloat}
     return A
 end
 
-end # module GMW81
+end # module GillMurrayWright81
 
